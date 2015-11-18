@@ -1,0 +1,5 @@
+fixtures:
+  forge modules:
+    "stdlib": "puppetlabs/stdlib"
+  symlinks:
+    "auditd": "#{source_dir}"
